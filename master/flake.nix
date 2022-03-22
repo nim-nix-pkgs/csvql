@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-csvql-master.flake = false;
+  inputs.src-csvql-master.ref   = "refs/heads/master";
   inputs.src-csvql-master.owner = "Bennyelg";
-  inputs.src-csvql-master.ref   = "master";
   inputs.src-csvql-master.repo  = "csvql";
   inputs.src-csvql-master.type  = "github";
   
