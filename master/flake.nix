@@ -11,6 +11,7 @@
   inputs.src-csvql-master.ref   = "refs/heads/master";
   inputs.src-csvql-master.owner = "Bennyelg";
   inputs.src-csvql-master.repo  = "csvql";
+  inputs.src-csvql-master.dir   = "";
   inputs.src-csvql-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";

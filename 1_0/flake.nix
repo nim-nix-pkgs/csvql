@@ -11,6 +11,7 @@
   inputs.src-csvql-1_0.ref   = "refs/tags/1.0";
   inputs.src-csvql-1_0.owner = "Bennyelg";
   inputs.src-csvql-1_0.repo  = "csvql";
+  inputs.src-csvql-1_0.dir   = "";
   inputs.src-csvql-1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
