@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/Bennyelg/csvql",
   "refs": [
-    "fatal: unable to access 'https://github.com/Bennyelg/csvql/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
+    "fatal: unable to access 'https://github.com/Bennyelg/csvql/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
